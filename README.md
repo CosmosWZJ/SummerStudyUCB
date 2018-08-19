@@ -1,2 +1,2 @@
 # SummerStudyUCB
-Contains lecture notes and tutorial questions and my solutions.
+Contains lecture notes and tutorial questions and suggested solutions and my solutions(code).
